@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @stazas
+- 👋 Hi, I’m @stavros
 - 👀 I’m interested in genelar
 - 🌱 I’m currently learning ...
 
